@@ -1,4 +1,4 @@
-from assignment2 import OrfFinder
+from orf_finder import OrfFinder
 from time import time
 
 start = time()

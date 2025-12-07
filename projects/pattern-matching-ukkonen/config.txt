@@ -1,0 +1,6 @@
+3 2
+1 text1.txt
+2 text2.txt
+3 text3.txt
+1 pattern1.txt
+2 pattern2.txt

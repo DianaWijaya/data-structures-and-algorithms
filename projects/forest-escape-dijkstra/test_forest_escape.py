@@ -1,5 +1,5 @@
 import unittest
-from assignment1 import TreeMap
+from forest_escape import TreeMap
 
 class TestTreeMap(unittest.TestCase):
     # staff provided - guaranteed correct

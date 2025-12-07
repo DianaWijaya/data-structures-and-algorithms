@@ -1,4 +1,4 @@
-from assignment2 import allocate
+from officer_allocation import allocate
 from time import time
 
 start = time()
